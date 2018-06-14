@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+  .btn-block{
+      border-top:2px ; 
+  }
+  .row{
+    margin-top: 10px;
+  }
+  
+  .error{
+    color: red;
+  }
+  .container{
+    position: absolute;
+    left:30%;
+  }
+  /*
+  .btnPosition{
+    position: absolute;
+    left:10px !important;
+  }
+  .otherbtn{
+    position: absolute;
+    left:20px !important;
+  }
+  */
